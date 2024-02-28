@@ -1,0 +1,5 @@
+print('Introduction to programming, Lab #1')
+print('Arsen Tsadzikidze, FB-24, 29')
+print('Oleksandr Oriekhov, '*44 + 'Oleksandr Oriekhov.')
+calculation = (113.2/(21.2+11.3)+22.2/(15.2-11.3))
+print(calculation)
